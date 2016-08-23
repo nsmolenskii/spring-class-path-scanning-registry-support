@@ -1,2 +1,5 @@
 /*
 !/.gitignore
+!/readme.md
+!/pom.xml
+!/src
